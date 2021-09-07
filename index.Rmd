@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](images/Alex.jpg)
 
 ### "Oh hi, I didn't see you there."
-One might assume that because I am the son of a computer science professor, I would have the computational capacity of at least a small child delighting themselves for the first time with a Raspberry Pi at the tender age of 5. One would assume incorrectly.
+One might assume that because I am the son of a computer science professor, I would have the computational capacity of at least a small child delighting themselves with the wonders of a Raspberry Pi. One would assume incorrectly.
 
 Instead of following in my father's footsteps, I blazed my own path, earning a PharmD and MPhil in Pharmacology before pursuing issues related to global health and health policy as a researcher at the Access to Medicine Foundation for two years. I have since resigned myself to being in school for eternity and am currently in my 9th year of higher education as a second-year PhD student in the Department of International Health. There, I hope to explore issues related to access to innovative health technologies, research and development for neglected diseases, and how to create HTML files the right way instead of copying them in the local folder and renaming them.
 
