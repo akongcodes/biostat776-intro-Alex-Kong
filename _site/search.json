@@ -1,0 +1,45 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "This section of the website hasn't really been populated because Alex realized that he should probably stop working on the optional assignment for this class and instead start working on the required lecture he needs to write for a class. He suggests you do an about-face from the about section and instead look at something more interesting.",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-06T17:30:41-04:00"
+    },
+    {
+      "path": "cooking.html",
+      "title": "Cooking",
+      "description": "Before I made the change to global health, I was dedicated to becoming a pharmaceutical scientist. The thing is, sometimes (often), experiments didn't work. Around the time I was struggling with a Western Blot for the umpteenth time (due to old, leaky equipment and a young, leaky brain), I discovered baking. Here are some of the things I've made and the stories that accompany them.",
+      "author": [],
+      "contents": "\r\n“Strawberries and peanut butter?”\r\n My sister and somehow managed to not see each other for seven years as I flitted back and forth between Europe and the US, and she flitted back and forth between North Carolina and Kansas. When we finally were in the same place at the same time for a while, I made her a birthday cake to make up for the seven birthdays I had missed before. She wanted chocolate with peanut butter, but she requested strawberries as a garnish, which at the time was a baffling decision to me. Turns out, it was delicious. In retrospect, I shouldn’t have been surprised since Smuckers Uncrustables were on the flavor bandwagon long, long ago.\r\nLa Tortuga\r\n Not the best picture, but this is my pride and joy. While in the UK, I entered my department’s “Great Pharmacology Bake-Off” for fun. At the time, I thought there was no way that I would possibly be in the UK by the time the finals rolled around (thanks to some poor scheduling… I was.), so I entered the competition’s knock-out rounds as the sole competitor against the man who had won the entire competition the year before. I figured that if I won, it would be a little bit humorous, and if I didn’t, I shouldn’t feel bad. Well, I ended up winning with a chocolate red wine cake and progressed to the semi-finals and then final, where I was up against the department’s resident “Cake God.” “Alex has got a good shot,” one of my friends said.\r\n“Barry has never lost a bake-off. The only reason he didn’t win last year is because he didn’t participate. He’s a Cake God,” responded our less-supportive lab manager.\r\nAnd so I stayed up pretty much the whole night to try to defeat a Cake God, adding a twist to a traditional “turtle” flavored chocolate cake with cajeta buttercream frosting, brown sugar bourbon candied pecans, a caramel shell, and lots and lots of chocolate ganache. And I won. You’re on the page of the 2017 GPBO champion, y’all.\r\nEmpanada de atún\r\nImage from https://dotandline.net/kiki-herring-pie-recipe/\r\nOne of my good friends in the Netherlands was from Spain, and he would tell me about the food that he missed from back home. One such dish was an empanada, something I knew only as the relatively small, delicious Latin American treats that I would highly recommend buying from the 32nd Street Farmers Market on Saturday mornings (the spinach and cheese ones are phenomenal). It turns out that Spanish empanadas tend to be a bit more massive and made in pie or casserole dishes. So I whipped up a tuna empanada and paid homage to one of the classic films of my childhood: Kiki’s Delivery Service.\r\nTompouce\r\n Every year in the Netherlands, King’s Day rolls around to celebrate the active monarch’s birthday (unless they were born on a day that isn’t suitable for partying). People wear a bunch of orange, they eat orange tompoucen (see above), and they crowd into the canals. In the two years I lived in the Netherlands, I missed it twice: the first time I was traveling, and the second year it was cancelled due to the pandemic. In spite of this, I was determined to celebrate and made orange tompoucen. But I was lazy and used store-bought puff pastry. But I wasn’t so lazy that I was okay with a non-orange tompoucen (they’re normally pink, but people had also bought all of the food coloring), so I blended carrots, made a reduction, and created a natural orange food coloring.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-06T18:29:00-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Alex's Website",
+      "description": "The quirks, queries, cuisine, and qphotography of a burnt-out millennial.\n",
+      "author": [],
+      "contents": "\r\n\r\n“Oh hi, I didn’t see you there.”\r\nOne might assume that because I am the son of a computer science professor, I would have the computational capacity of at least a small child delighting themselves for the first time with a Raspberry Pi at the tender age of 5. One would assume incorrectly.\r\nInstead of following in my father’s footsteps, I blazed my own path, earning a PharmD and MPhil in Pharmacology before pursuing issues related to global health and health policy as a researcher at the Access to Medicine Foundation for two years. I have since resigned myself to being in school for eternity and am currently in my 9th year of higher education as a second-year PhD student in the Department of International Health. There, I hope to explore issues related to access to innovative health technologies, research and development for neglected diseases, and how to create HTML files the right way instead of copying them in the local folder and renaming them.\r\nFive fun facts about me\r\nI have been bucked by a camel in the Sahara Desert.\r\nI was in a university a cappella group for four years, in the tender (and brief) time period when a cappella was cool(ish).\r\nMy parents once tried to bribe my siblings and me with 24K gold coints as a way to convince us to marry Chinese people. They have since denied this.\r\nI got into baking after realizing how similar it was to the experiments I was running in lab, except baking usually works, and I can eat the products without violating OSHA regulations.\r\nWhen I was younger, I wanted to be an artist, but my parents said I would end up on the streets begging for money. I did not become an artist.\r\nOne fun thing you should check out\r\nIn the early days of the pandemic, I discovered a fantastic British comedy game show called “Taskmaster” that I’m determined to share with as many people as possible. The premise is simple: five comedians compete to complete tasks given to them by the Taskmaster and the Taskmaster’s assistant. At the end of each task, the Taskmaster doles out points for the best performances, and the winner of each episode takes home a collection of sometimes embarassing, sometimes surprisingly expensive, and sometimes high octane prizes.\r\nThere are now 11 series of this show, and I watched all of them in the last year. If you’re ever feeling down about the pandemic, graduate school, or your inability to code (I’m right there with you), I recommend popping on an episode or five and focusing on the more important questions in life. Like how to make the most exotic sandwich.\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-06T20:48:40-04:00"
+    },
+    {
+      "path": "photography.html",
+      "title": "Photography",
+      "description": "Before moving to England in 2016, I decided to splurge on a DSLR (for those of you who are actual photographers, unlike me, I use the word \"splurge\" very lightly). What followed were several years of bringing my camera to everything, partially ruining it after getting drenched in the sea spray on the sides of the Cliffs of Moher, and then getting it stolen exactly one stop into my travels from Amsterdam to Cologne.\n\nI since replaced the camera, splurging on a newer model (see above, real photographers) and wondering why I don't just update to a full-frame camera. Here are some photos that I've taken while traveling around the world.",
+      "author": [],
+      "contents": "\r\nAmsterdam, Netherlands\r\n\r\n\r\n\r\nAthens, Greece\r\n\r\nBarcelona, Spain\r\n\r\nBerlin, Germany\r\n\r\n\r\nCambridge, United Kingdom\r\n\r\nManarola, Italy\r\n\r\nNew York City, New York\r\n\r\nTokyo, Japan\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-06T19:32:32-04:00"
+    },
+    {
+      "path": "ReadMe.html",
+      "title": "Introducing myself",
+      "description": "Generating this website about myself made me realize that I'm starved for more creative outlets. Here are some of the creative outlets that I have maintained throughout my life.",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-06T19:40:46-04:00"
+    }
+  ],
+  "collections": []
+}

@@ -1,0 +1,10 @@
+---
+title: "About this site"
+description: |
+  This section of the website hasn't really been populated because Alex realized that he should probably stop working on the optional assignment for this class and instead start working on the required lecture he needs to write for a class. He suggests you do an about-face from the about section and instead look at something more interesting.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

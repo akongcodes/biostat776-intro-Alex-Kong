@@ -1,0 +1,46 @@
+---
+title: "Photography"
+description: |
+  Before moving to England in 2016, I decided to splurge on a DSLR (for those of you who are actual photographers, unlike me, I use the word "splurge" very lightly). What followed were several years of bringing my camera to everything, partially ruining it after getting drenched in the sea spray on the sides of the Cliffs of Moher, and then getting it stolen exactly one stop into my travels from Amsterdam to Cologne.
+  
+  I since replaced the camera, splurging on a newer model (see above, real photographers) and wondering why I don't just update to a full-frame camera. Here are some photos that I've taken while traveling around the world.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Amsterdam, Netherlands
+
+![](images/Amsterdam Pride.Jpg)
+
+![](images/Amsterdam2.Jpg)
+
+![](images/Amsterdam.Jpg)
+
+## Athens, Greece
+![](images/Athens.Jpg)
+
+## Barcelona, Spain
+![](images/Barcelona.Jpg)
+
+## Berlin, Germany
+![](images/Berlin2.Jpg)
+
+![](images/Berlin.Jpg)
+
+## Cambridge, United Kingdom
+![](images/Cambridge.Jpg)
+![](images/Cambridge2.Jpg)
+![](images/Cambridge3.Jpg)
+
+## Manarola, Italy
+![](images/Manarola.Jpg)
+
+## New York City, New York
+![](images/NYC.Jpg)
+
+## Tokyo, Japan
+![](images/Tokyo.Jpg)
+![](images/Tokyo2.Jpg)
+![](images/Tokyo3.JPG)

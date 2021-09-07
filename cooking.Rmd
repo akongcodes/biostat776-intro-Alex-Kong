@@ -1,0 +1,33 @@
+---
+title: "Cooking"
+description: |
+  Before I made the change to global health, I was dedicated to becoming a pharmaceutical scientist. The thing is, sometimes (often), experiments didn't work. Around the time I was struggling with a Western Blot for the umpteenth time (due to old, leaky equipment and a young, leaky brain), I discovered baking. Here are some of the things I've made and the stories that accompany them.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+#### "Strawberries and peanut butter?"
+![](images/Cake2.jpg)
+My sister and somehow managed to not see each other for seven years as I flitted back and forth between Europe and the US, and she flitted back and forth between North Carolina and Kansas. When we finally were in the same place at the same time for a while, I made her a birthday cake to make up for the seven birthdays I had missed before. She wanted chocolate with peanut butter, but she requested strawberries as a garnish, which at the time was a baffling decision to me. Turns out, it was delicious. In retrospect, I shouldn't have been surprised since Smuckers Uncrustables were on the flavor bandwagon long, long ago.
+
+#### La Tortuga
+![](images/Cake.jpg)
+Not the best picture, but this is my pride and joy. While in the UK, I entered my department's "Great Pharmacology Bake-Off" for fun. At the time, I thought there was no way that I would possibly be in the UK by the time the finals rolled around (thanks to some poor scheduling... I was.), so I entered the competition's knock-out rounds as the sole competitor against the man who had won the entire competition the year before. I figured that if I won, it would be a little bit humorous, and if I didn't, I shouldn't feel bad. Well, I ended up winning with a chocolate red wine cake and progressed to the semi-finals and then final, where I was up against the department's resident "Cake God." 
+"Alex has got a good shot," one of my friends said.
+
+"Barry has never lost a bake-off. The only reason he didn't win last year is because he didn't participate. He's a Cake God," responded our less-supportive lab manager.
+
+And so I stayed up pretty much the whole night to try to defeat a Cake God, adding a twist to a traditional "turtle" flavored chocolate cake with cajeta buttercream frosting, brown sugar bourbon candied pecans, a caramel shell, and lots and lots of chocolate ganache. And I won. You're on the page of the 2017 GPBO champion, y'all.
+
+#### Empanada de atún
+![](images/Empanada.JPG) ![](images/Kiki.jpeg)
+*Image from https://dotandline.net/kiki-herring-pie-recipe/*
+
+One of my good friends in the Netherlands was from Spain, and he would tell me about the food that he missed from back home. One such dish was an empanada, something I knew only as the relatively small, delicious Latin American treats that I would highly recommend buying from the 32nd Street Farmers Market on Saturday mornings (the spinach and cheese ones are phenomenal). It turns out that Spanish empanadas tend to be a bit more massive and made in pie or casserole dishes. So I whipped up a tuna empanada and paid homage to one of the classic films of my childhood: *Kiki's Delivery Service*.
+
+#### Tompouce
+![](images/Tompouce.jpg)
+Every year in the Netherlands, King's Day rolls around to celebrate the active monarch's birthday (unless they were born on a day that isn't suitable for partying). People wear a bunch of orange, they eat orange tompoucen (see above), and they crowd into the canals. In the two years I lived in the Netherlands, I missed it twice: the first time I was traveling, and the second year it was cancelled due to the pandemic. In spite of this, I was determined to celebrate and made orange tompoucen. But I was lazy and used store-bought puff pastry. But I wasn't so lazy that I was okay with a non-orange tompoucen (they're normally pink, but people had also bought all of the food coloring), so I blended carrots, made a reduction, and created a natural orange food coloring.
+
