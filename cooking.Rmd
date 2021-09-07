@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### "Strawberries and peanut butter?"
 ![](images/Cake2.jpg)
-My sister and somehow managed to not see each other for seven years as I flitted back and forth between Europe and the US, and she flitted back and forth between North Carolina and Kansas. When we finally were in the same place at the same time for a while, I made her a birthday cake to make up for the seven birthdays I had missed before. She wanted chocolate with peanut butter, but she requested strawberries as a garnish, which at the time was a baffling decision to me. Turns out, it was delicious. In retrospect, I shouldn't have been surprised since Smuckers Uncrustables were on the flavor bandwagon long, long ago.
+My sister and I somehow managed to not see each other for seven years as I flitted back and forth between Europe and the US, and she flitted back and forth between North Carolina and Kansas. When we finally were in the same place at the same time for a while, I made her a birthday cake to make up for the seven birthdays I had missed before. She wanted chocolate with peanut butter, but she requested strawberries as a garnish, which at the time was a baffling decision to me. Turns out, it was delicious. In retrospect, I shouldn't have been surprised since Smuckers Uncrustables were on the flavor bandwagon long, long ago.
 
 #### La Tortuga
 ![](images/Cake.jpg)
